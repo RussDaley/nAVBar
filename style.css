@@ -1,0 +1,109 @@
+#main_div{
+	width: 1000px;
+	height: 600px;
+	background-color: rgb(80, 80, 80);
+	border: 10px solid rgb(56, 56, 56);
+	border-radius: 10px;
+	margin: auto;
+}
+#name{
+	float: left;
+	font-size: 110px;
+	margin: 0px;
+	position: relative;
+	color: black;
+}
+.button{
+	margin-top: 86px;
+	margin-left: 10px;
+	width: 200px;
+	height: 150px;
+	background-color: black;
+	border: 10px solid rgb(56, 56, 56);
+	border-radius: 10px;
+	float: left;
+	color: rgb(100, 100, 100);
+	text-align: center;
+	cursor: pointer;
+	font-size: 40px;
+	font-weight: bold;
+	vertical-align: middle;
+	line-height: 135px;
+}
+#about{
+	margin-left: 45px;
+	clear: both;
+}
+#header{
+	clear: both;
+	text-align: center;
+	font-weight: bold;
+	font-size: 0px;
+	margin-bottom: 0px;
+}
+#line{
+	width: 0px;
+	height: 5px;
+	background-color: orange;
+	float: right;
+	clear: both;
+}
+
+
+
+#after-animation-name{
+	float: right;
+	font-size: 50px;
+	margin: 0px;
+	position: relative;
+	color: black;
+	margin-right: 130px;
+}
+.after-animtion-button{
+	margin-top: 5px;
+	margin-left: 10px;
+	width: 100px;
+	height: 50px;
+	background-color: black;
+	border: 3px solid rgb(56, 56, 56);
+	border-radius: 10px;
+	float: left;
+	color: rgb(100, 100, 100);
+	text-align: center;
+	cursor: pointer;
+	font-size: 25px;
+	font-weight: bold;
+	vertical-align: middle;
+	line-height: 50px;
+}
+.after-animtion-button a{
+	display: block;
+	width:100px;
+	height: 50px;
+	text-decoration: none;
+	color: rgb(100, 100, 100);
+}
+#after-about{
+	margin-left: 45px;
+}
+#after-animation-header{
+	clear: both;
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+	margin-bottom: 0px;
+}
+#after-animation-line{
+	width: 1000px;
+	height: 5px;
+	background-color: orange;
+	float: right;
+	clear: both;
+}
+.text{
+	margin: 10px;
+}
+img{
+	width: 200px;
+	height: 200px;
+}
